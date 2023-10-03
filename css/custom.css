@@ -1,0 +1,80 @@
+
+
+.topo{
+	padding: 10px 0;
+	position: relative;
+	background-color: #f8f9fa;
+}
+
+.navbar {
+	background-color:#cca4ff; /* Cor de fundo da navbar */
+	padding: 5px;
+	text-align: center;
+  }
+  
+  .navbar a {
+	color:#333; /* Cor do texto dos links */
+	padding: 8px 16px;
+	text-decoration: none;
+	display: inline-block;
+  }
+
+  .btn{
+	background-color: #007BFF; /* Cor de fundo do link ativo */
+	color: white; /* Cor do texto do link ativo */
+  }
+
+  .navbar a:hover {
+	background-color:#cca4ff; /* Cor de fundo ao passar o mouse sobre os links */
+	color:white; /* Cor do texto ao passar o mouse sobre os links */
+  }
+  
+  .navbar a.active {
+	background-color: #007BFF; /* Cor de fundo do link ativo */
+	color: white; /* Cor do texto do link ativo */
+  }
+
+.banner-topo{
+	background: #cca4ff;
+
+	color: #56219c;
+
+	
+}
+.banner-topo .img-destaque{
+	max-width: 80%;
+
+
+}
+.cor-tema{
+	color:#56219c;
+}
+
+.titulo {
+	padding:20px;
+	text-align: center;
+	color:#cca4ff;
+	background-color: #56219c;
+
+}
+
+.card-text{
+	color:#56219c;
+
+}
+
+.card-title{
+	font-weight: bold;
+	color:#56219c;
+
+}
+h4 { text-align: center;
+	color:#56219c;
+	background-color:#cca4ff;
+
+}
+.rodape {
+	background-color:#cca4ff;
+	padding: 20px 0;
+	text-align: center;
+  }
